@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#print best school 10 times
+#print Best School 10 times
 i=0
 while [ $i -lt 10 ]; do
       echo "Best School"
